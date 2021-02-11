@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Greetings Earthlings,
+
+Marty-Mar here! Tryna see what this coding thing is all about.
